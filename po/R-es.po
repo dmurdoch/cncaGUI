@@ -1,0 +1,141 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: R 2.9.2\n"
+"Report-Msgid-Bugs-To: ananieto@usal.es\n"
+"POT-Creation-Date: 2010-11-22 17:55\n"
+"PO-Revision-Date: 2011-01-19 23:12+0100\n"
+"Last-Translator: ana <ananieto@usal.es>\n"
+"Language-Team: Spanish\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Enter names"
+msgstr "Introduzca nombres"
+
+msgid "Select one table"
+msgstr "Seleccione una hoja"
+
+msgid "Select one table for ("
+msgstr "Seleccione una hoja para ("
+
+msgid "Options"
+msgstr "Opciones"
+
+msgid "Subtract the global mean"
+msgstr "Restar la media global"
+
+msgid "Column centering"
+msgstr "Centrar por columnas"
+
+msgid "Standardize columns"
+msgstr "Standarizar por columnas"
+
+msgid "Row centering"
+msgstr "Centrar por filas"
+
+msgid "Standardize rows"
+msgstr "Standarizar por filas"
+
+msgid "Raw data"
+msgstr "Datos brutos"
+
+msgid "Choose a color"
+msgstr "Elija un color"
+
+msgid "Change Color"
+msgstr "Cambio de color"
+
+msgid "Change label"
+msgstr "Cambio de etiqueta"
+
+msgid "Change symbol"
+msgstr "Cambio de símbolo"
+
+msgid "Axis 1"
+msgstr "Eje 1"
+
+msgid "Axis 2"
+msgstr "Eje 2"
+
+msgid "Axis 3"
+msgstr "Eje 3"
+
+msgid "File saved in:"
+msgstr "Archivo guardado en:"
+
+msgid "Results.xls"
+msgstr "Resultados.xls"
+
+msgid "CONTRIBUTIONS:"
+msgstr "CONTRIBUCIONES:"
+
+msgid "Contributions to"
+msgstr "Contribuciones para"
+
+msgid "QUALITIES OF REPRESENTATION"
+msgstr "CALIDADES DE REPRESENTACIÓN"
+
+msgid "Proportion of inertia explained for each axis (projected space):"
+msgstr "Proporción de inercia explicada por cada eje (espacio proyectado):"
+
+msgid "Proportion of inertia explained for each axis (original space):"
+msgstr "Proporción de inercia explicada por cada eje (espacio original):"
+
+msgid "Qualities of representation relative to elements:"
+msgstr "Calidades de representación relativa a elementos:"
+
+msgid "respect to projected space:"
+msgstr "respecto al espacio proyectado:"
+
+msgid "respect to original space:"
+msgstr "respecto al espacio original"
+
+msgid "coordinates:"
+msgstr "coordenadas:"
+
+msgid "Eigen values:"
+msgstr "Valores propios:"
+
+msgid "Graph"
+msgstr "Gráfico"
+
+msgid "Export"
+msgstr "Exportar"
+
+msgid "-To change the label press Yes.\n-To remove it press No.\n-If you do not want to do anything press Cancel."
+msgstr "-Para cambiar la etiqueta pulse Sí. \n-Para eliminarla pulse No.\n-Si no desea hacer nada pulse Cancelar."
+
+msgid "Change of label"
+msgstr "Cambio de etiqueta"
+
+msgid "Transformations"
+msgstr "Transformaciones"
+
+msgid "Show axes"
+msgstr "Mostrar ejes"
+
+msgid "Show"
+msgstr "Mostrar"
+
+msgid "Show labels for"
+msgstr "Mostrar etiquetas para"
+
+msgid "Sites"
+msgstr "Lugares"
+
+msgid "Species"
+msgstr "Especies"
+
+msgid "Environmental v"
+msgstr "V. ambientales"
+
+msgid "Names for sites:"
+msgstr "Nombres para lugares:"
+
+msgid "Names for species:"
+msgstr "Nombres para especies:"
+
+msgid "Names for environmental v:"
+msgstr "Nombres para v ambientales:"
+
