@@ -1,0 +1,11 @@
+188d55128e472c5d497a915b848e9d90 *ChangeLog
+b6a0b337a2528560e03608257b40315e *DESCRIPTION
+9dbf04d321b416c20d88634c2a2492a8 *NAMESPACE
+eb5cb1188ced7dd638b8f297ed6cd156 *R/cnca.R
+b594aae204f2d3f89b4e456ebb8c9df7 *cncaGUI-Ex.R
+e85e19dc9e172d839d192298cde241c3 *data/especies.rda
+917b3d6426b30494f71298f1ab18f61a *data/variables.rda
+21ded3b7114a06e023203ff9ceb6560c *man/cnca.Rd
+dc3cf42ac886ff1ea3a0e66821fabcf3 *man/cncaGUI-package.Rd
+d662fbb4f5bc6efa32cff4876d0b6128 *man/especies.Rd
+a63cfbb943776f4beb5eb4ef99c530dc *man/variables.Rd

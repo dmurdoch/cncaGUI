@@ -8,8 +8,8 @@
 \tabular{ll}{
 Package: \tab cncaGUI\cr
 Type: \tab Package\cr
-Version: \tab 0.0-1\cr
-Date: \tab 2010-07-20\cr
+Version: \tab 0.0-2\cr
+Date: \tab 2012-07-01\cr
 License: \tab GPL (>=2)\cr
 LazyLoad: \tab yes\cr
 }
