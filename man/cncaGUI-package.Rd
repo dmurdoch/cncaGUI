@@ -8,13 +8,13 @@
 \tabular{ll}{
 Package: \tab cncaGUI\cr
 Type: \tab Package\cr
-Version: \tab 1.0\cr
-Date: \tab 2015-06-19\cr
+Version: \tab 1.1\cr
+Date: \tab 2022-05-10\cr
 License: \tab GPL (>=2)\cr
 LazyLoad: \tab yes\cr
 }
 }
-\author{Ana Belen Nieto Librero \email{ananieto@usal.es}, 
+\author{Ana Belen Nieto Librero \email{ananieto@usal.es},
 Priscila Willems \email{pwillems@bariloche.inta.gov.ar},
 Purificacion Galindo Villardon \email{pgalindo@usal.es}}
 \references{

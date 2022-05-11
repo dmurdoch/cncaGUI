@@ -1,9 +1,9 @@
-e5860e68d161db4dfe09de51c9bc08cd *DESCRIPTION
-2fcd62956fe916c483ba8f7cc18b5f71 *NAMESPACE
+a5ac76b8ee7717e1d2742a315a7c2d42 *DESCRIPTION
+00e45c2b25f56d596c3038a936d27d87 *NAMESPACE
 cb4035c4cb0b617c6b08401d7a2de5a5 *R/cnca.R
 e85e19dc9e172d839d192298cde241c3 *data/especies.rda
 917b3d6426b30494f71298f1ab18f61a *data/variables.rda
 40f807862bb5f56374b265fb3b15ebae *man/cnca.Rd
-e5890806ea432cf9d1752aea237f948f *man/cncaGUI-package.Rd
+65adf8c67e670dd9698d17402706fddb *man/cncaGUI-package.Rd
 627a5eda609a007f7da9a76999fa0b9e *man/especies.Rd
 9258368e782edc2849adafb1ce01f841 *man/variables.Rd
