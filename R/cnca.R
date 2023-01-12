@@ -2378,7 +2378,7 @@ cnca <- function(fespecies, fvambientales)
                                                                         }
                                                                         if(typecoia=="ef" | typecoia=="vf")
                                                                         {
-                                                                                rgl.bg(sphere=TRUE, color=c("white","green"), lit=FALSE, back="lines" )
+                                                                                bg3d(sphere=TRUE, color=c("white","green"), lit=FALSE, back="lines" )
                                                                                 for (i in 1:(dim(datos)[1]))
                                                                                 {
                                                                                         linea <-rbind(datos[i,c(dim1, dim2, dim3)],c(0,0,0))
